@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlcode", "WindowsFormsApp1\sqlcode.csproj", "{59F0EA63-434F-40CF-98E9-746E8ED7368C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F0EA63-434F-40CF-98E9-746E8ED7368C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F0EA63-434F-40CF-98E9-746E8ED7368C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F0EA63-434F-40CF-98E9-746E8ED7368C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F0EA63-434F-40CF-98E9-746E8ED7368C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814DFB0C-B57F-40A7-A865-C99E492D7B1A}
+	EndGlobalSection
+EndGlobal
